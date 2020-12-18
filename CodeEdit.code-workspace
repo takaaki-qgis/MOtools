@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{"path": "."}
+	],
+	"settings": {
+		"editor.tokenColorCustomizations": {
+			"textMateRules": [
+				{
+					"scope": "invalid.comment.igor",
+					"settings": {
+						"foreground": "#316745",
+					}
+				},
+				{
+					"scope": "comment.string.tag.igor",
+					"settings": {
+						"foreground": "#00a45a",
+					}
+				},
+				{
+					"scope": "keyword.constant.igor",
+					"settings": {
+						"foreground": "#0030cd",
+					}
+				},
+				{
+					"scope": "constant.numeric.operations.igor",
+					"settings": {
+						"foreground": "#007575",
+					}
+				},
+				{
+					"scope": "string.regexp.variable.igor",
+					"settings": {
+						"foreground": "#C34E00",
+					}
+				},
+				{
+					"scope": "constant.regexp.function.igor",
+					"settings": {
+						"foreground": "#d00050",
+					}
+				},
+			]
+		},
+	},
+	},
+
+}
+	
